@@ -201,11 +201,10 @@ justify-content: center;
 .feynman__img {
   position: absolute;
   left: 0;
-  bottom: 0;;
+  bottom: 0;
   width: 867px;
   height: 637px;
   z-index: -1;
-
 }
 
 .feynman__link {
